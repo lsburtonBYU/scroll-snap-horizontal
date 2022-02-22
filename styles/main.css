@@ -27,6 +27,7 @@ img {
 
   display: grid;
   grid-auto-columns: 100vw;
+  grid-auto-rows: 100%;
   grid-auto-flow: column;
 
   height: 100vh;
